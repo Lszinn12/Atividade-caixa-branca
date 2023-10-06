@@ -1,16 +1,26 @@
 # Atividade-caixa-branca
-Documentação: Não há documentação disponível para o código atual. É altamente recomendável que sejam incorporados comentários explicativos para facilitar a compreensão.
 
-Nomenclatura de Variáveis: A maior parte das variáveis possui nomes aceitáveis, mas poderiam ser mais descritivas. Por exemplo, "nome" e "result" poderiam ser renomeadas de forma a proporcionar uma compreensão mais clara.
+## Descrição
+O código foi desenvolvido na linguagem java, utilizando NetBeans IDE 16. O objetivo desse branch é análisar o código em função de um fluxo grafo.
 
-Legibilidade e Organização: A formatação do código precisa ser aprimorada para torná-lo mais legível. Deve-se utilizar espaçamento adequado e recuo apropriado. Além disso, é de extrema importância a inclusão de tratamento de exceções para lidar com erros.
+## Código
+![image](https://github.com/yVinii/CaixaBranca/assets/117307556/6f13fdfa-dd7c-49a7-a693-43e95713880e)
 
-Tratamento de Ponteiros Nulos: Atualmente, não há tratamento adequado para exceções ou verificação de valores nulos. É fundamental implementar tratamento de exceções para evitar erros não tratados.
+## Grafo de fluxo
+![image](https://github.com/yVinii/CaixaBranca/assets/117307556/d334bc4c-352e-4082-b218-b941c3c9d122)
 
-Arquitetura: A estrutura geral do código não está bem definida neste contexto. Isso leva a uma considerável desorganização ao tentar compreender o código como um todo.
+## Complexidade
+Fazendo a conta para obter a complexidade teremos como resultado 2. Logo existem dois caminhos no código, e ambos precisam ser testados por completo.
 
-Fechamento de Conexões: As conexões com o banco de dados não estão sendo fechadas de forma apropriada após o uso. É altamente recomendável que as conexões, instruções e resultados sejam fechados devidamente para evitar vazamentos de recursos.
+## Possíveis fluxos
+### Fluxo principal
+![image](https://github.com/yVinii/CaixaBranca/assets/117307556/cf11f0ca-dfc7-4bf5-bf8a-ebd79d1f58ce)
 
+### Fluxo de exceções
+![image](https://github.com/yVinii/CaixaBranca/assets/117307556/891d77ba-fce1-4d2d-b421-5d269e1739dc)
 
+## Publicação
+https://github.com/Lszinn12/Atividade-caixa-branca
 
+## Última atualização 06/10/2023
 
