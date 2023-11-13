@@ -1,0 +1,7 @@
+# Qaulidade e teste de software - Tela de login 
+
+Atividade da matéria de qualidade e teste de software onde foi sugerido o modelo de teste Test-Driven Development, a ser criado uma simples classe de login 
+## Descrição
+Este projeto em Java utiliza o framework JUnit 5 e segue a abordagem do Desenvolvimento Orientado por Testes. O objetivo é criar os testes iniciais para a classe de Login e seus métodos antes de efetivamente desenvolvê-los. A ideia é que os testes atuem como um guia durante o processo de desenvolvimento, apontando o que precisa ser implementado em cada etapa, permitindo que os testes orientem o próprio desenvolvimento do código.
+
+## ultima atualização 20/10/2023
